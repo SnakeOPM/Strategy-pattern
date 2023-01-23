@@ -59,7 +59,6 @@ class Filter extends BasedWork{
                 filtred.push(i)
             }
         }
-        console.log(filtred)
         return filtred
     } 
 }
